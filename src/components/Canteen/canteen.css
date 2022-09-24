@@ -1,0 +1,46 @@
+.services{
+    margin: auto;
+    width: 120%;
+}
+
+.banner{
+    margin: auto;
+    width:90%;
+    border-radius: 10px;
+}
+
+.breakfast{
+    margin: auto;
+    width:90%;
+    border-radius: 10px;
+}
+
+.container_breakfast{
+    margin-top:10px;
+}
+
+.breakfast_button{
+   align-items: center;
+   text-align: center;
+   margin-top: 10px;
+   margin-bottom:10px;
+}
+
+.img_breakfast{
+    height: 310px;
+}
+.vada{
+    height:285px;
+}
+
+.litti_img{
+    height: 310px;
+}
+
+.link_button{
+    background-color:rgb(98, 158, 9);
+    padding: 15px;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+}

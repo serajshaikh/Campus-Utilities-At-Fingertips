@@ -1,0 +1,74 @@
+.display{
+    font-style: normal;
+    font-size: 50px;
+    font-weight: 500;
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    letter-spacing: 2px;
+}
+
+.sidenav{
+   height: 100%;
+   position:relative;
+   background-color: black;
+   margin: 0 0 0 20px;
+   padding: 20px;
+   transition: 0.5s;
+   overflow-x: hidden;
+}
+
+.sidenav a{
+    font-style: normal;
+    font-size:20px;
+    font-weight: 500;
+    display: block;
+    color: aliceblue;
+    padding-top: 20px;
+    text-decoration: none;
+    text-align: center;
+    transition: 0.3s;
+    letter-spacing: 1px;
+}
+
+.sidenav a:hover{
+    color: aqua;
+}
+.dis{
+    text-align: center;
+    font-style: normal;
+    letter-spacing: .5px;
+    font-family:b;
+}
+
+.table{
+    text-align: center;
+    padding: 3px;
+    position: relative;
+    left: 16px;
+
+
+}
+tr{
+    color: aliceblue;
+    background-color: black;
+}
+.table thead tr th,td{
+    border-left: solid 1px black;
+}
+
+.right-table{
+   align-items: center;
+   background-color: aliceblue;
+}
+
+th{
+    letter-spacing: .5px;
+}
+
+.side_image{
+height:100px;
+width:auto;
+
+}
+
